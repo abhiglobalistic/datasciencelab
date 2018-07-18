@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d325b6-aa48-439b-b858-9cec158a9886" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classification.py" afterPath="$PROJECT_DIR$/Classification.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cleaner.py" afterPath="$PROJECT_DIR$/Cleaner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeatureExtraction.py" afterPath="$PROJECT_DIR$/FeatureExtraction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentimentAnalyzer.py" afterPath="$PROJECT_DIR$/SentimentAnalyzer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readingafter.py" afterPath="$PROJECT_DIR$/readingafter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readingduring.py" afterPath="$PROJECT_DIR$/readingduring.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Datasciencelab" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Classification.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="116" column="33" lean-forward="true" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1743#2107#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentimentAnalyzer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentimentAnalyzer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Nice Picture my Dr Thala</find>
+      <find>http</find>
+      <find>PATH</find>
+      <find>@FreddyAmazin</find>
+      <find>false</find>
+      <find>true</find>
+      <find>null</find>
+      <find>\u30ca\u30b2\u30c3\u30c4\u89aa\u5b50</find>
+      <find>CSVfields</find>
+      <find>created_at</find>
+      <find>text</find>
+      <find>['1YearSinceWomensMarch', 'TogetherWeRise', 'WomensMarch2017', 'WomensMarch2018', 'LookBackMarchForward', 'WomensMarchGlobal', 'WhyIMarch', 'WomensMarch']</find>
+      <find>this might be my single</find>
+      <find>this might be my single favorite photo from womensmarch so many levels of truth over untruth solidarity over ga</find>
+      <find>my single</find>
+      <find>single</find>
+      <find>ver</find>
+      <find>rt</find>
+      <find>AfterFinalSentimentLabelledCoachellaTweets.csv</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tweet_utils.py" />
+        <option value="$PROJECT_DIR$/tarloader.py" />
+        <option value="$PROJECT_DIR$/tweets.csv" />
+        <option value="$PROJECT_DIR$/eggs.csv" />
+        <option value="$PROJECT_DIR$/csvwriter.py" />
+        <option value="$PROJECT_DIR$/finaltweets.csv" />
+        <option value="$PROJECT_DIR$/tweetsfromtext.csv" />
+        <option value="$PROJECT_DIR$/readingwithtext.py" />
+        <option value="$PROJECT_DIR$/finaltweetsbefore.csv" />
+        <option value="$PROJECT_DIR$/reading2.py" />
+        <option value="$PROJECT_DIR$/reading3.py" />
+        <option value="$PROJECT_DIR$/finaltweetsduring1.csv" />
+        <option value="$PROJECT_DIR$/finaltweetsduring3.csv" />
+        <option value="$PROJECT_DIR$/finaltweetsduring2.csv" />
+        <option value="$PROJECT_DIR$/During_WomensMarchtweets.csv" />
+        <option value="$PROJECT_DIR$/reading.py" />
+        <option value="$PROJECT_DIR$/WomensMarchtweets.csv" />
+        <option value="$PROJECT_DIR$/readingbefore.py" />
+        <option value="$PROJECT_DIR$/readingduring.py" />
+        <option value="$PROJECT_DIR$/ratio.py" />
+        <option value="$PROJECT_DIR$/DuringFinalWomensMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeWomensMarchtweets.csv" />
+        <option value="$PROJECT_DIR$/SentimentAndCleaner.py" />
+        <option value="$PROJECT_DIR$/readingafter.py" />
+        <option value="$PROJECT_DIR$/Visualization.py" />
+        <option value="$PROJECT_DIR$/AfterCoachellatweets.csv" />
+        <option value="$PROJECT_DIR$/Cleaner.py" />
+        <option value="$PROJECT_DIR$/AfterFinalCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/DuringFinalCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/DuringFinalSentimentCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/AfterFinalSentimentCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/WomensMarchFinalTweets/AfterFinalWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/DuringFinalWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalSentimentWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/DuringFinalSentimentWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/SentimentAnalyzer.py" />
+        <option value="$PROJECT_DIR$/AfterFinalSentimentWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalSentimentCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/FeatureExtraction.py" />
+        <option value="$PROJECT_DIR$/Tweets.json" />
+        <option value="$PROJECT_DIR$/Demo.py" />
+        <option value="$PROJECT_DIR$/result.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalSentimentLabelledWomansMarchTweets.csv" />
+        <option value="$PROJECT_DIR$/BeforeFinalSentimentLabelledWomensMarchTestTweets.csv" />
+        <option value="$PROJECT_DIR$/FinalLabelledTweets/BeforeFinalSentimentLabelledCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/FinalLabelledTweets/AfterFinalSentimentLabelledCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/FinalLabelledTweets/DuringFinalSentimentLabelledCoachellaTweets.csv" />
+        <option value="$PROJECT_DIR$/Classification.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Datasciencelab">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Datasciencelab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Datasciencelab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Ms_passau\Fifth semester\Data scince\Datasciencelab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Ms_passau\Fifth semester\Data scince\Datasciencelab\WomensMarchFinalTweets" />
+      <recent name="J:\Ms_passau\Fifth semester\Data scince\Datasciencelab\CoachellaFinalTweets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Classification">
+    <configuration default="false" name="Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="J:\Ms_passau\Fifth semester\Data scince\Datasciencelab\Cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SentimentAnalyzer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentimentAnalyzer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FeatureExtraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FeatureExtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Datasciencelab" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Cleaner" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SentimentAnalyzer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FeatureExtraction" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Classification" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Classification" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SentimentAnalyzer" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Cleaner" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FeatureExtraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d325b6-aa48-439b-b858-9cec158a9886" name="Default" comment="" />
+      <created>1526905838764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526905838764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30746704" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.88161993" sideWeight="0.5058565" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30373833" sideWeight="0.49555555" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7258567" sideWeight="0.4941435" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40654206" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/readingafter.py</url>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DummyDuringWomensMarchtweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/DuringFinalWomensMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/AfterCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/BeforeFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/DuringFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/BeforeWomensMarchtweets.csv" />
+    <entry file="file://$PROJECT_DIR$/DummyBeforeWomensMarchtweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/BeforeFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/DuringFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/DummyAfterCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/AfterFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/Cleaner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readingduring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readingwithtext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeforeFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/BeforeFinalSentimentCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/DuringFinalSentimentCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/DuringFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/AfterFinalCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/AfterWomensMarchtweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/AfterFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/BeforeFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/BeforeFinalSentimentWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/DuringFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/AfterFinalWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/AfterFinalSentimentWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/BeforeFinalSentimentCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/tweetfile.csv" />
+    <entry file="file://$PROJECT_DIR$/Tweets.json" />
+    <entry file="file://$USER_HOME$/untitled/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabelledWomensMarchTweets/AfterFinalSentimentWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/readingafter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeforeFinalSentimentLabelledWomensMarchTestTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/BeforeFinalSentimentLabelledWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/CoachellaFinalTweets/AfterFinalSentimentCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/WomensMarchFinalTweets/DuringFinalSentimentWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/BeforeFinalSentimentLabelledCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/DuringFinalSentimentLabelledWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/AfterFinalSentimentLabelledCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/BeforeFinalSentimentLabelledWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/DuringFinalSentimentLabelledCoachellaTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/FinalLabelledTweets/AfterFinalSentimentLabelledWomansMarchTweets.csv" />
+    <entry file="file://$PROJECT_DIR$/readingbefore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.csv" />
+    <entry file="file://$PROJECT_DIR$/tweet_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatureExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization.py" />
+    <entry file="file://$PROJECT_DIR$/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/SentimentAnalyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="116" column="33" lean-forward="true" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1743#2107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

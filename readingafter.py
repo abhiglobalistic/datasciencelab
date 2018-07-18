@@ -10,7 +10,7 @@ from nltk.tokenize import WordPunctTokenizer
 from bs4 import BeautifulSoup
 
 
-bz2FilePath = 'WomensMarch_Dataset'
+bz2FilePath = 'Coachella_Dataset/after/2016'
 CSVfields = ['created_at', 'text','hashtags','username','screenname','followers_count','following_count','user_location','user_desc']
 
 tok = WordPunctTokenizer()
@@ -56,8 +56,9 @@ def contains_word(s, w):
 
 def checkHashtagForTweet(tweet):
 
-    HashtagsList = ['1YearSinceWomensMarch','TogetherWeRise','WomensMarch2017','WomensMarch2018','LookBackMarchForward',
-                    'WomensMarchGlobal','WhyIMarch','WomensMarch']
+    HashtagsList = ['coachella2017','Coachella','coachellalive','Beychella','coachellaoutfit',
+                    'Coachellavalley','coachellavibes','coachellaready']
+
     hashtags = []
     if 'hashtags' in tweet['entities']:
         for tag in tweet['entities']['hashtags']:
@@ -88,7 +89,7 @@ def writeCSV(tbody,writer):
 
 
 def reading(filepath):
-    with open('WomensMarchtweets.csv', 'w', newline='',encoding='utf-8') as csvfile:  ## open the CSV new file
+    with open('AfterCoachellatweets.csv', 'w', newline='',encoding='utf-8') as csvfile:  ## open the CSV new file
         tweetwriter = csv.DictWriter(csvfile,delimiter=',', fieldnames=CSVfields) ## initialize the CSV
         tweetwriter.writeheader()  ## write the header of CSV
 

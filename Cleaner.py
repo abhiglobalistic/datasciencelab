@@ -1,6 +1,6 @@
 import csv
 import re
-from textblob import TextBlob
+
 
 # Defines a list - It stores all unique tweets
 tweetChecklist = [];
@@ -8,27 +8,9 @@ CSVfields = ['created_at', 'text']
 
 
 
-
-def get_tweet_sentiment(self, tweet):
-    '''
-    Utility function to classify sentiment of passed tweet
-    using textblob's sentiment method
-    '''
-    # create TextBlob object of passed tweet text
-    analysis = TextBlob(self.clean_tweet(tweet))
-    # set sentiment
-    if analysis.sentiment.polarity > 0:
-        return 'positive'
-    elif analysis.sentiment.polarity == 0:
-        return 'neutral'
-    else:
-        return 'negative'
-
-
-
 def getAllTweets():
     AllTweets = [];
-    with open('DummyDuringWomensMarchtweets.csv', encoding='UTF-8') as csvfile:
+    with open('DummyAfterCoachellaTweets.csv', encoding='UTF-8') as csvfile:
         readCSV = csv.reader(csvfile, delimiter=',')
         for row in readCSV:
             AllTweets.append(row)
@@ -42,7 +24,7 @@ def writeCSV(tbody,writer):
     writer.writerow(tbody)
 
 
-with open('DuringFinalWomansMarchTweets.csv', 'w', newline='',encoding='utf-8') as csvfile:
+with open('AfterFinalCoachellaTweets.csv', 'w', newline='',encoding='utf-8') as csvfile:
     tweetwriter = csv.DictWriter(csvfile, delimiter=',', fieldnames=CSVfields)  ## initialize the CSV
     tweetwriter.writeheader()  ## write the header of CSV
     for item in allTweets:

@@ -10,7 +10,7 @@ from nltk.tokenize import WordPunctTokenizer
 from bs4 import BeautifulSoup
 
 
-bz2FilePath = 'WomensMarch_Dataset/during'
+bz2FilePath = 'WomensMarch_Dataset/before'
 CSVfields = ['created_at', 'text','hashtags','username','screenname','followers_count','following_count','user_location','user_desc']
 
 tok = WordPunctTokenizer()
@@ -88,7 +88,7 @@ def writeCSV(tbody,writer):
 
 
 def reading(filepath):
-    with open('DuringWomensMarchtweets.csv', 'w', newline='',encoding='utf-8') as csvfile:  ## open the CSV new file
+    with open('BeforeWomensMarchtweets.csv', 'w', newline='',encoding='utf-8') as csvfile:  ## open the CSV new file
         tweetwriter = csv.DictWriter(csvfile,delimiter=',', fieldnames=CSVfields) ## initialize the CSV
         tweetwriter.writeheader()  ## write the header of CSV
 
